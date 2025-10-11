@@ -1,0 +1,21 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Jonatan Perez
+    email: jonatan.perez@owasp.org
+  - name: Alvaro Villaverde
+    email: jonatan.perez@owasp.org
+level: 2
+name: OWASP Wi-Fi Security Testing Guide
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-wi-fi-security-testing-guide
+    url: https://github.com/OWASP/www-project-wi-fi-security-testing-guide
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-wi-fi-security-testing-guide
